@@ -1,0 +1,222 @@
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\appsettings.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.staticwebassets.endpoints.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.exe
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.deps.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.pdb
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacion.D5276226.Up2Date
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\source\repos\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\appsettings.Development.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\appsettings.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.staticwebassets.endpoints.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.exe
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.deps.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.pdb
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Google.Protobuf.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\MySql.Data.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\ZstdSharp.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.AssemblyReference.cache
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\scopedcss\bundle\Estacionamento.styles.css
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.development.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacion.D5276226.Up2Date
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+D:\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\appsettings.Development.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\appsettings.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.staticwebassets.endpoints.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.exe
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.deps.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.pdb
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\MySql.Data.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\ZstdSharp.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.AssemblyReference.cache
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\scopedcss\bundle\Estacionamento.styles.css
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.development.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacion.D5276226.Up2Date
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+D:\Nova pasta\PCS\Estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.staticwebassets.endpoints.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.exe
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.deps.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Estacionamento.pdb
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\scopedcss\bundle\Estacionamento.styles.css
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacion.D5276226.Up2Date
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+C:\Users\User\Desktop\estacionamento\Estacionamento\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
